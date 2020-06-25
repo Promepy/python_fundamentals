@@ -17,7 +17,7 @@ All my python fundamental practice
 
 ---
 > #### Day_3
->- Strings continution
+>- Strings continuation
 >- f-Strings
 >- White Spaces
 >- Tab delimiter
