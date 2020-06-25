@@ -7,3 +7,10 @@ All my python fundamental practice
 >- Learnt basic md syntax.
 
 ---
+> #### Day_2
+>- Variables
+>- Rules to declare variables
+>- Classification of data types
+>- Introduction to data types
+>- Introduction to string data type
+>- String methods
