@@ -14,3 +14,13 @@ All my python fundamental practice
 >- Introduction to data types
 >- Introduction to string data type
 >- String methods
+
+---
+> #### Day_3
+>- Strings continution
+>- f-Strings
+>- White Spaces
+>- Tab delimiter
+>- New Line delimiter
+>- Custrom White spacing
+>- Removing white spacing using string methods
