@@ -22,5 +22,5 @@ All my python fundamental practice
 >- White Spaces
 >- Tab delimiter
 >- New Line delimiter
->- Custrom White spacing
+>- Custom White spacing
 >- Removing white spacing using string methods
