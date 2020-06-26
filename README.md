@@ -24,3 +24,13 @@ All my python fundamental practice
 >- New Line delimiter
 >- Custom White spacing
 >- Removing white spacing using string methods
+
+---
+> #### Day_4
+>- Introduction to List data type
+>- Indexing
+>- Reassignment
+>- Append
+>- Insert
+>- Delete
+>- Pop
