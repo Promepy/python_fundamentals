@@ -34,3 +34,12 @@ All my python fundamental practice
 >- Insert
 >- Delete
 >- Pop
+
+---
+> #### Day_5
+>- Contintion to Lists
+>- Sort
+>- Sorted
+>- Reverse
+>- Len
+>- Introduction to for loops
