@@ -37,7 +37,7 @@ All my python fundamental practice
 
 ---
 > #### Day_5
->- Contintion to Lists
+>- Continuation of Lists
 >- Sort
 >- Sorted
 >- Reverse
