@@ -43,3 +43,10 @@ All my python fundamental practice
 >- Reverse
 >- Len
 >- Introduction to for loops
+
+---
+> #### Day_5
+>- Continution of for loops
+>- Printing with for loops
+>- If-else conditions
+>- Slicing of lists
