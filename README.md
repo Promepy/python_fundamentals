@@ -45,7 +45,7 @@ All my python fundamental practice
 >- Introduction to for loops
 
 ---
-> #### Day_5
+> #### Day_6
 >- Continution of for loops
 >- Printing with for loops
 >- If-else conditions
