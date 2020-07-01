@@ -50,3 +50,10 @@ All my python fundamental practice
 >- Printing with for loops
 >- If-else conditions
 >- Slicing of lists
+
+---
+> #### Day_7
+>- Range
+>- Slicing step count
+>- Negative indexing
+>- Reverse printing
