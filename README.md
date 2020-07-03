@@ -57,3 +57,7 @@ All my python fundamental practice
 >- Slicing step count
 >- Negative indexing
 >- Reverse printing
+
+---
+> #### Day_8
+>- Introduction to Tuples
