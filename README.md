@@ -61,3 +61,12 @@ All my python fundamental practice
 ---
 > #### Day_8
 >- Introduction to Tuples
+
+---
+> #### Day_9
+>- Introduction to Dictionary Data type
+>- Access individual elements
+>- KeyError 
+>- Adding key-value pairs
+>- Modify values
+>- Delete key-value pairs
