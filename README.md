@@ -70,3 +70,13 @@ All my python fundamental practice
 >- Adding key-value pairs
 >- Modify values
 >- Delete key-value pairs
+
+---
+> #### Day_10
+>- Continuation with Dictionary Data type
+>- Looping
+>- items()
+>- keys()
+>- values()
+>- Introduction to conditional-statements
+
