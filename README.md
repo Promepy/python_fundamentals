@@ -80,3 +80,11 @@ All my python fundamental practice
 >- values()
 >- Introduction to conditional-statements
 
+---
+> #### Day_10
+>- User Input
+>- Int Input
+>- Typecasting of data types
+>- Validate the age criteria
+
+
