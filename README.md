@@ -81,10 +81,10 @@ All my python fundamental practice
 >- Introduction to conditional-statements
 
 ---
-> #### Day_10
+> #### Day_11
 >- User Input
 >- Int Input
 >- Typecasting of data types
->- Validate the age criteria
+>- Validate the age criterion
 
 
