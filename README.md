@@ -87,4 +87,9 @@ All my python fundamental practice
 >- Typecasting of data types
 >- Validate the age criterion
 
-
+---
+> #### Day_12
+>- Introduction to functions
+>- Docstrings
+>- Introduction to parameters and arguments
+>- Types of arguments
