@@ -93,3 +93,9 @@ All my python fundamental practice
 >- Docstrings
 >- Introduction to parameters and arguments
 >- Types of arguments
+
+
+> #### Day_12
+>- Default arguments
+>- Arbitrary number of arguments
+
